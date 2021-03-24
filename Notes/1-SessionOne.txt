@@ -1,0 +1,38 @@
+
+	HTML and CSS
+	Bootstrap CSS
+	JavaScript Fundamentals
+	ReactJS
+	
+----------------------------------------------------------
+
+	Visual Studio COde
+	Sublime Text
+	ATOM
+	
+----------------------------------------------------------
+	
+	HTML: decides what content has to be displayed over web page. (Content)
+	Heading, Paragraphs, Images, Lists, Tables, Forms etc.
+	
+	CSS: decides how the content has to be displayed over web page.(Presentation)
+	Color, Styles, Margins, Paddings, Spaces etc. 
+	
+	JavaScript: helps in taking actions over page. (Actions)
+	Button Clicks, Hover over image, selecting values from DD etc.
+	
+-----------------------------------------------------------
+
+	CSS: Cascading Style Sheet
+	Helps us to provide better presentation for HTML elements.
+	
+	cm: centimeters
+	mm: millimeters
+	in: inches (1inch = 96px = 2.54cm)
+	px: pixels: (1px = 1/96 of 1 inch)
+	pt: points (1pt = 1/72 of 1 inch)
+	pc: picas (1pc = 12points)
+	
+-------------------------------------------------------------
+
+	
