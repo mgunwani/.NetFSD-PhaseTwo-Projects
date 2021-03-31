@@ -1,0 +1,53 @@
+
+To check whether NODE is installed or not:
+
+	node --version
+
+To check whether NPM is installed or not:
+	
+	npm --version
+	
+-------------------------------------------------------------
+
+HTML: decides what content has to be displayed over web page. (Content)
+	Heading, Paragraphs, Images, Lists, Tables, Forms etc.
+	
+CSS: decides how the content has to be displayed over web page.(Presentation)
+	Color, Styles, Margins, Paddings, Spaces etc. 
+	
+JavaScript: helps in taking actions over page. (Actions)
+	Button Clicks, Hover over image, selecting values from DD etc.
+	
+-------------------------------------------------------------
+
+NodeJS: 
+	- A JavaScript Server-Side Framework
+	- Provides runtime environment to JavaScript.
+
+JavaScript:
+
+	- A loosely-typed scripting language
+	- Helps in taking actions or handling events over the web pages.
+	
+Two Ways to Integrated JavaScript with Web Page:
+	- Internal/Embedded JavaScript
+	- External JavaScript
+	
+----------------------------------------------------------------
+
+JavaScript is a loosely-typed language.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
