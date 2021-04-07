@@ -1,0 +1,10 @@
+p {
+    color:brown;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.para {
+    line-height: 1.7em;
+    letter-spacing: 0.2em;
+}
