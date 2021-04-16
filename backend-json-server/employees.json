@@ -1,28 +1,22 @@
 {
-    "employees": [
-        {
-            "id": 1001,
-            "name": "King Kochhar",
-            "email": "king@gmail.com",
-            "salary": 10000
-        },
-        {
-            "id": 1002,
-            "name": "John Smith",
-            "email": "john@gmail.com",
-            "salary": 20000
-        },
-        {
-            "id": 1003,
-            "name": "Gautam Bhalla",
-            "email": "gautam@gmail.com",
-            "salary": 30000
-        },
-        {
-            "id": 1004,
-            "name": "James Bond",
-            "email": "james@gmail.com",
-            "salary": 32000
-        }
-    ]
+  "employees": [
+    {
+      "id": 1002,
+      "name": "King Kochhar",
+      "email": "king@gmail.com",
+      "salary": 10000
+    },
+    {
+      "id": 1003,
+      "name": "Gautam",
+      "email": "gautam@gmail.com",
+      "salary": 20000
+    },
+    {
+      "name": "Bhawna",
+      "email": "bhawna@gmail.com",
+      "salary": "12000",
+      "id": 1004
+    }
+  ]
 }
